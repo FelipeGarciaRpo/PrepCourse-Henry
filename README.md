@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de modo prueba modulo 2
+Este es proyecto es una prueba de como crear un repositorio de prubea desde github y editarlo en el escritorio
